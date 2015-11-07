@@ -1,0 +1,12 @@
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\bin\Debug\StatisticsConsoleApplication.exe.config
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\bin\Debug\StatisticsConsoleApplication.exe
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\bin\Debug\StatisticsConsoleApplication.pdb
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\bin\Debug\DynamicInterop.dll
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\bin\Debug\RDotNet.dll
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\bin\Debug\RDotNet.NativeLibrary.dll
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\bin\Debug\DynamicInterop.xml
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\bin\Debug\RDotNet.xml
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\bin\Debug\RDotNet.NativeLibrary.xml
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\obj\Debug\StatisticsConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\obj\Debug\StatisticsConsoleApplication.exe
+c:\users\alt\documents\visual studio 2013\Projects\StatisticsConsoleApplication\StatisticsConsoleApplication\obj\Debug\StatisticsConsoleApplication.pdb
